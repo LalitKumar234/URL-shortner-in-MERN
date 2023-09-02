@@ -21,29 +21,9 @@ This MERN (MongoDB, Express.js, React.js, Node.js) URL shortener project comes w
 git clone https://github.com/LalitKumar234/URL-shortner-in-MERN/
 cd URL-shortner-in-MERN
 
-2. ```bash
-cd server
-npm install
-
-3. ```bash
-cd client
-npm install
-
-4. Set up your MongoDB database.
-Create a .env file in the server directory and configure your environment variables:
-```bash
-DB_URI="Your Mongodb URI"
-BASE="http://localhost:3200"
-
-5. start the development server:
+2. Install server dependencies:
 
 ```bash
-cd server
-npm start
-
-```bash
-cd client
-npm start
-
-
+git clone https://github.com/LalitKumar234/URL-shortner-in-MERN/
+cd URL-shortner-in-MERN
 
