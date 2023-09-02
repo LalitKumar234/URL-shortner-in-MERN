@@ -25,6 +25,33 @@ cd URL-shortner-in-MERN
 2. Install server dependencies:
 
 ```bash
-git clone https://github.com/LalitKumar234/URL-shortner-in-MERN/
-cd URL-shortner-in-MERN
+cd server
+npm install
 ```
+3. Install client dependencies:
+
+```bash
+cd client
+npm install
+  ```
+4. Set up your MongoDB database.
+Create a .env file in the server directory and configure your environment variables:
+
+```bash
+DB_URI="Your Mongodb URI"
+BASE="http://localhost:3200"
+```
+
+5. Start the development server:
+
+```bash
+cd server
+npm run dev
+```
+
+```bash
+cd client
+npm start
+```
+
+
