@@ -2,7 +2,7 @@
 
 ## Overview
 
-This MERN (MongoDB, Express.js, React.js, Node.js) URL shortener project comes with powerful analytics features. It allows you to create shortened URLs and track their performance, including the number of clicks, the browsers used, and the devices used to open the links.
+This MERN (MongoDB, Express.js, React.js, Node.js) URL shortener project comes with analytics features. It allows you to create shortened URLs and track their performance, including the number of clicks, the browsers used, and the devices used to open the links.
 
 ## Features
 
@@ -11,7 +11,6 @@ This MERN (MongoDB, Express.js, React.js, Node.js) URL shortener project comes w
 - Track the number of clicks on each link.
 - Monitor which browsers were used to access the links.
 - Identify the devices (desktop, mobile, tablet) used to open the links.
-- Easily manage and edit your shortened URLs.
 
 ## Installation
 
@@ -53,5 +52,9 @@ npm run dev
 cd client
 npm start
 ```
+
+## Some Screenshots
+<img width="1582" alt="image" src="https://github.com/LalitKumar234/URL-shortner-in-MERN/assets/64685787/57b60d1e-6b3e-4ba2-b16a-8d244982a3a2">
+<img width="1582" alt="image" src="https://github.com/LalitKumar234/URL-shortner-in-MERN/assets/64685787/e7f4a93e-6c85-4da3-bf0f-9f34282c1f55">
 
 
