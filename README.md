@@ -20,10 +20,11 @@ This MERN (MongoDB, Express.js, React.js, Node.js) URL shortener project comes w
 ```bash
 git clone https://github.com/LalitKumar234/URL-shortner-in-MERN/
 cd URL-shortner-in-MERN
+```
 
 2. Install server dependencies:
 
 ```bash
 git clone https://github.com/LalitKumar234/URL-shortner-in-MERN/
 cd URL-shortner-in-MERN
-
+```
