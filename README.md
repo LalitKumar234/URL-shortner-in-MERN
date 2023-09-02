@@ -18,7 +18,7 @@ This MERN (MongoDB, Express.js, React.js, Node.js) URL shortener project comes w
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/LalitKumar234/URL-shortner-in-MERN/
+git clone https://github.com/LalitKumar234/URL-shortner-in-MERN.git
 cd URL-shortner-in-MERN
 ```
 
